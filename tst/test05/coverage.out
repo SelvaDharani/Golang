@@ -1,0 +1,4 @@
+mode: set
+github.com/akv/tf1/example.go:8.40,9.20 1 1
+github.com/akv/tf1/example.go:9.20,11.3 1 1
+github.com/akv/tf1/example.go:12.2,12.19 1 1
