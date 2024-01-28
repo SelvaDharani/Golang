@@ -11,4 +11,5 @@ CREATE TABLE training.users (
 
 # environment variables
 export DB_PASSWORD = "local db password"
+
 export JWT_KEY = "jwt signing key"
