@@ -13,4 +13,6 @@ If you are new to Go, this section will help you get started with the language. 
 
 Happy learning and coding! 🚀
 
+Go Basics - https://github.com/SelvaDharani/Golang/tree/main/code/gobasics
+
 Echo Framework - https://github.com/SelvaDharani/Golang/tree/main/Echo%20Framework
